@@ -8,3 +8,4 @@ Lista de recursos sobre Arte Digital curada por el Rejunte de Artistas Digitales
 - [StableDiffusion Web UI (Google Colab)](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb)
 - [Servers de Discord](#discord)
   - [GenerativeES](https://discord.gg/uWVrZ6wM67)
+- [Text Generation Web UI](https://github.com/oobabooga/text-generation-webui)Como AUTOMATIC1111 pero de texto
